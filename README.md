@@ -4,7 +4,7 @@ Hi, I'm Hemi. I combine full-stack engineering and product experience to build d
 
 > Wedding Ready is wedding platform inspired by Pinterest, which aims to solve the problem for couples making their dreams a reality. Every idea on Wedding Ready links directly to local suppliers who can bring it to life.
 
-[![Wedding Ready](https://img.shields.io/badge/Wedding_Ready-FDE2FF?style=for-the-badge)](https://wedding-ready.vercel.app/)
+[![Wedding Ready](https://img.shields.io/badge/Visit_Wedding_Ready-FDE2FF?style=for-the-badge)](https://wedding-ready.vercel.app/)
 
 
 ### Tech
@@ -40,5 +40,6 @@ const hemi = {
 
 ### Find Me
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://heyhemi.framer.website/)
+[![Website Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://heyhemi.framer.website/)
+[![Website Contact](https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge)](https://heyhemi.framer.website/contact)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@heyhemi.dev)
