@@ -10,7 +10,7 @@ Hi, I'm Hemi. I combine full-stack engineering and product experience to build d
 
 **Wedding Ready** (wip)
 
-> Wedding Ready is wedding platform inspired by Pinterest, which aims to solve the problem for couples making their dreams a reality. Every idea on Wedding Ready links directly to local suppliers who can bring it to life. Full-stack Next.js application, deployed on Vercel, Uploadthing Storage, Supabase Auth, and Supabase DB.
+> Wedding Ready is wedding platform inspired by Pinterest, which aims to solve the problem for couples making their dreams a reality. Every idea on Wedding Ready links directly to local suppliers who can bring it to life. Full-stack Next.js application, deployed on Vercel, ViTest, Github Actions CI/CD, Uploadthing Storage, Supabase Auth, and Supabase DB.
 
 [![Wedding Ready](https://img.shields.io/badge/Visit_Wedding_Ready-77D3BF?style=for-the-badge)](https://wedding-ready.vercel.app/)
 
