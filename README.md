@@ -4,7 +4,7 @@ Hi, I'm Hemi. I combine full-stack engineering and product experience to build d
 
 **With Thanks** (production)
 
-> With Thanks is the fastest and easist way to collect supplier details from couples, formatted and ready-to-paste into Instagram. Full-stack Tanstack Start application, deployed on Vercel, with Better Auth, and Neon DB.
+> With Thanks is the fastest and easist way to collect wedding supplier details from just-married couples, formatted and ready-to-paste into Instagram. Full-stack Tanstack Start application, deployed on Vercel, with Better Auth, and Neon DB.
 
 [![With Thanks](https://img.shields.io/badge/Visit_With_Thanks-A03A13?style=for-the-badge)](https://withthanks.nz/)
 
