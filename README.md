@@ -6,13 +6,13 @@ Hi, I'm Hemi. I combine full-stack engineering and product experience to build d
 
 > With Thanks is the fastest and easist way to collect supplier details from couples, formatted and ready-to-paste into Instagram.
 
-[![With Thanks](https://img.shields.io/badge/Visit_With_Thanks-FDE2FF?style=for-the-badge)](https://wedding-ready.vercel.app/)
+[![With Thanks](https://img.shields.io/badge/Visit_With_Thanks-A03A13?style=for-the-badge)](https://withthanks.nz/)
 
 **Wedding Ready**
 
 > Wedding Ready is wedding platform inspired by Pinterest, which aims to solve the problem for couples making their dreams a reality. Every idea on Wedding Ready links directly to local suppliers who can bring it to life.
 
-[![Wedding Ready](https://img.shields.io/badge/Visit_Wedding_Ready-FDE2FF?style=for-the-badge)](https://wedding-ready.vercel.app/)
+[![Wedding Ready](https://img.shields.io/badge/Visit_Wedding_Ready-77D3BF?style=for-the-badge)](https://wedding-ready.vercel.app/)
 
 
 ### Tech
